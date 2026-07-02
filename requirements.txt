@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+accelerate
+bitsandbytes
+Pillow
+qwen-vl-utils
+sentencepiece
+einops
