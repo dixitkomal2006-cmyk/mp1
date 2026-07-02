@@ -1,8 +1,8 @@
 streamlit
 torch
+torchvision
 transformers
 accelerate
-bitsandbytes
 Pillow
 qwen-vl-utils
 sentencepiece
